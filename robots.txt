@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://josephgrealy.github.io/al-folio/sitemap.xml
+Sitemap: https://josephgrealy.github.io/sitemap.xml
