@@ -5,6 +5,21 @@
 
 @use "sass:color";
 
+// AF colours
+$af-dark-blue: #12436D !default;
+$af-turquoise: #28A197 !default;
+$af-dark-pink: #801650 !default;
+$af-orange: #F46A25 !default;
+$af-dark-grey: #3D3D3D !default;
+$af-light-purple: #A285D1 !default;
+
+// AF Sequential
+$af-darkest-blue: #092135 !default;
+$af-mid-blue: #2073BC !default;
+$af-light-blue: #6BACE6 !default;
+$af-lightest-blue: #ADD1F1 !default;
+$af-pale-grey: #F2F2F2 !default;
+
 // Colors
 $red-color: #ff3636 !default;
 $red-color-dark: #b71c1c !default;
