@@ -6,7 +6,7 @@ subtitle: <a href='https://rss.org.uk/membership/professional-development/gradst
 
 profile:
   align: right
-  image: prof_pic.png
+  image: prof_pic_new.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>London</p>
