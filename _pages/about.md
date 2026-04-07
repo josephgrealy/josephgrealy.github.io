@@ -33,6 +33,4 @@ I completed my MMATH at Durham University, where my dissertation developed a Gau
 
 Alongside my analytical work, I enjoy building tools in R to support clear and reproducible analysis, including data pipelines, lightweight apps, and Quarto-based outputs.
 
-I am keen to pursue a PhD focused on novel emulation techniques for large-scale climate or environmental models, bridging methodological development with environmental applications.
-
 I am interested in pursuing a PhD in the future, with a focus on developing methods for modelling and communicating uncertainty in complex systems — including AI and machine learning applications — particularly where there are implications for health, environment, or policy.
