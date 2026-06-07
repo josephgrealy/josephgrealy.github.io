@@ -31,6 +31,6 @@ I am a graduate statistician working as a Civil Servant, currently in the New Ho
 
 I completed my MMATH at Durham University, where my dissertation developed a Gaussian Process emulator to analyse uncertainty in hydrological models across UK catchments. I have also gained experience through a UKRI research placement on soil uncertainty and an OECD internship on disaster cost estimation in Southeast Asia.  
 
-Alongside my analytical work, I enjoy building tools in R to support clear and reproducible analysis, including data pipelines, lightweight apps, and Quarto-based outputs.
+Alongside my analytical work, I enjoy building tools in to support clear and reproducible analysis, including RShiny dashboards, quarto pages, and maybe even simple ios apps.
 
-I am interested in pursuing a PhD in the future, with a focus on developing methods for modelling and communicating uncertainty in complex systems — including AI and machine learning applications — particularly where there are implications for health, environment, or policy.
+I am interested in pursuing a PhD in the future, with a focus on developing methods for modelling and communicating uncertainty in complex systems, including AI and machine learning applications, particularly where there are implications for health, environment, or policy.
