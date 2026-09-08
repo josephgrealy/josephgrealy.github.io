@@ -8,7 +8,7 @@ related_posts: false
 
 After an amazing year at Defra, last week I started a new role at the Department of Health and Social Care.
 
-I feel really grateful to have worked with such an inspiring and supportive team at Defra. I couldn't have been more lucky with my first Fast Stream posting! 
+I feel really grateful to have worked with such an inspiring and supportive team at Defra. I couldn't have been more lucky with my first Fast Stream posting!
 
 Some of my highlights include:
 
@@ -16,6 +16,6 @@ Some of my highlights include:
 - Leading a project to improve how we quantify and communicate uncertainty in air quality data
 - Supporting international work on the Gothenburg Protocol renegotiations
 - Helping the team transition to a new data science platform. Especially running a two-day hackathon in York to get more people coding!
-- And, most of all, getting to work with so many fantastic people across Defra, as well as consultants, academics, and international colleagues! 
+- And, most of all, getting to work with so many fantastic people across Defra, as well as consultants, academics, and international colleagues!
 
 Somehow I’ve already finished my first week at DHSC and I'm already looking forward to learning more about Hospitals and the health service!

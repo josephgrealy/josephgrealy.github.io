@@ -87,9 +87,7 @@
       "startDate": "",
       "endDate": "",
       "summary": "Delivered mathematics and statistics tuition tailored to individual learning needs.",
-      "highlights": [
-        "Supported students to build confidence and understanding in mathematics and statistics."
-      ]
+      "highlights": ["Supported students to build confidence and understanding in mathematics and statistics."]
     }
   ],
   "projects": [
@@ -143,10 +141,7 @@
     {
       "name": "Tube App",
       "summary": "Personal app project focused on London Underground information and user-centred transport data presentation.",
-      "highlights": [
-        "Applied data handling and interface design to a practical transport use case.",
-        "Developed as a personal technical project."
-      ],
+      "highlights": ["Applied data handling and interface design to a practical transport use case.", "Developed as a personal technical project."],
       "startDate": "",
       "endDate": "",
       "url": ""
@@ -156,14 +151,7 @@
     {
       "name": "Analytical Leadership",
       "level": "",
-      "keywords": [
-        "Analytical strategy",
-        "Project leadership",
-        "Decision support",
-        "Quality assurance",
-        "Senior briefing",
-        "Stakeholder engagement"
-      ]
+      "keywords": ["Analytical strategy", "Project leadership", "Decision support", "Quality assurance", "Senior briefing", "Stakeholder engagement"]
     },
     {
       "name": "Data Science and Statistics",
@@ -180,16 +168,7 @@
     {
       "name": "Technical Tools",
       "level": "",
-      "keywords": [
-        "R",
-        "Python",
-        "SQL",
-        "R Shiny",
-        "Power BI",
-        "Databricks",
-        "Git/GitHub",
-        "Quarto"
-      ]
+      "keywords": ["R", "Python", "SQL", "R Shiny", "Power BI", "Databricks", "Git/GitHub", "Quarto"]
     },
     {
       "name": "Policy and Analytical Domains",
@@ -252,32 +231,17 @@
     {
       "name": "Environment and climate",
       "icon": "",
-      "keywords": [
-        "Air quality",
-        "Flood modelling",
-        "Greenhouse gas emissions",
-        "Environmental policy"
-      ]
+      "keywords": ["Air quality", "Flood modelling", "Greenhouse gas emissions", "Environmental policy"]
     },
     {
       "name": "Health and public services",
       "icon": "",
-      "keywords": [
-        "NHS infrastructure",
-        "Left-shift and neighbourhood health",
-        "Health policy",
-        "Service delivery"
-      ]
+      "keywords": ["NHS infrastructure", "Left-shift and neighbourhood health", "Health policy", "Service delivery"]
     },
     {
       "name": "Evidence-informed decision-making",
       "icon": "",
-      "keywords": [
-        "Uncertainty",
-        "Official statistics",
-        "Policy analysis",
-        "Analytical communication"
-      ]
+      "keywords": ["Uncertainty", "Official statistics", "Policy analysis", "Analytical communication"]
     }
   ]
 }
