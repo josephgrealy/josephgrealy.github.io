@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://rss.org.uk/membership/professional-development/gradstat/'>Graduate Statistician</a>. Civil Servant.
 
